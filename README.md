@@ -4,6 +4,8 @@
 - 🌱Who's interesting in programming and analysis.
 - 🤔Try to learning : C language,Python,R,SQL,etc.
 - 💪Hope to get a career change.
+
+- 🏥 Used to be : Previously served as Deputy Team Leader in the Inpatient Pharmacy for 3 years.
 <!--
 **Royroy945/Royroy945** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
